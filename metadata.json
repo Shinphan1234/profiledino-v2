@@ -1,0 +1,6 @@
+{
+  "name": "Dino Space",
+  "description": "An interactive, elegant personal intro and contact workspace with video control and services selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
